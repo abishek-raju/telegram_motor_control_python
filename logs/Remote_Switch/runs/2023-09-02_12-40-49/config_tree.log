@@ -1,0 +1,17 @@
+CONFIG
+├── paths
+│   └── root_dir: /home/rampfire/telegram_motor_control_python                                                             
+│       data_dir: /home/rampfire/telegram_motor_control_python/data/                                                       
+│       log_dir: /home/rampfire/telegram_motor_control_python/logs/                                                        
+│       output_dir: /home/rampfire/telegram_motor_control_python/logs/Remote_Switch/runs/2023-09-02_12-40-49               
+│       work_dir: /home/rampfire/telegram_motor_control_python                                                             
+│                                                                                                                          
+├── extras
+│   └── ignore_warnings: false                                                                                             
+│       enforce_tags: true                                                                                                 
+│       print_config: true                                                                                                 
+│                                                                                                                          
+├── task_name
+│   └── Remote_Switch                                                                                                      
+└── tags
+    └── ['dev']                                                                                                            
