@@ -1,18 +1,62 @@
-[2023-07-14 23:50:08,548][src.utils.utils][INFO] - Enforcing tags! <cfg.extras.enforce_tags=True>
-[2023-07-14 23:50:08,556][src.utils.utils][INFO] - Printing config tree with Rich! <cfg.extras.print_config=True>
-[2023-07-14 23:50:08,557][src.utils.rich_utils][WARNING] - Field 'data' not found in config. Skipping 'data' config printing...
-[2023-07-14 23:50:08,558][src.utils.rich_utils][WARNING] - Field 'model' not found in config. Skipping 'model' config printing...
-[2023-07-14 23:50:08,558][src.utils.rich_utils][WARNING] - Field 'callbacks' not found in config. Skipping 'callbacks' config printing...
-[2023-07-14 23:50:08,559][src.utils.rich_utils][WARNING] - Field 'logger' not found in config. Skipping 'logger' config printing...
-[2023-07-14 23:50:08,560][src.utils.rich_utils][WARNING] - Field 'trainer' not found in config. Skipping 'trainer' config printing...
-[2023-07-14 23:51:04,413][src.utils.utils][INFO] - Enforcing tags! <cfg.extras.enforce_tags=True>
-[2023-07-14 23:51:04,424][src.utils.utils][INFO] - Printing config tree with Rich! <cfg.extras.print_config=True>
-[2023-07-14 23:51:04,425][src.utils.rich_utils][WARNING] - Field 'logger' not found in config. Skipping 'logger' config printing...
-[2023-07-14 23:51:26,401][src.utils.utils][INFO] - Enforcing tags! <cfg.extras.enforce_tags=True>
-[2023-07-14 23:51:26,411][src.utils.utils][INFO] - Printing config tree with Rich! <cfg.extras.print_config=True>
-[2023-07-14 23:53:06,731][src.utils.utils][INFO] - Enforcing tags! <cfg.extras.enforce_tags=True>
-[2023-07-14 23:53:06,742][src.utils.utils][INFO] - Printing config tree with Rich! <cfg.extras.print_config=True>
-[2023-09-02 12:39:48,311][src.utils.utils][INFO] - Enforcing tags! <cfg.extras.enforce_tags=True>
-[2023-09-02 12:39:48,321][src.utils.utils][INFO] - Printing config tree with Rich! <cfg.extras.print_config=True>
-[2023-09-02 12:40:50,026][src.utils.utils][INFO] - Enforcing tags! <cfg.extras.enforce_tags=True>
-[2023-09-02 12:40:50,036][src.utils.utils][INFO] - Printing config tree with Rich! <cfg.extras.print_config=True>
+[2023-09-02 14:27:50,634][src.utils.utils][INFO] - Enforcing tags! <cfg.extras.enforce_tags=True>
+[2023-09-02 14:27:50,675][src.utils.utils][INFO] - Printing config tree with Rich! <cfg.extras.print_config=True>
+[2023-09-02 14:37:28,106][src.utils.utils][INFO] - Enforcing tags! <cfg.extras.enforce_tags=True>
+[2023-09-02 14:37:28,118][src.utils.utils][INFO] - Printing config tree with Rich! <cfg.extras.print_config=True>
+[2023-09-02 14:37:28,150][__main__][INFO] - Starting API
+[2023-09-02 15:00:36,806][src.utils.utils][INFO] - Enforcing tags! <cfg.extras.enforce_tags=True>
+[2023-09-02 15:00:36,847][src.utils.utils][INFO] - Printing config tree with Rich! <cfg.extras.print_config=True>
+[2023-09-02 15:00:38,524][__main__][INFO] - Starting API
+[2023-09-02 15:14:35,548][src.utils.utils][INFO] - Enforcing tags! <cfg.extras.enforce_tags=True>
+[2023-09-02 15:14:35,559][src.utils.utils][INFO] - Printing config tree with Rich! <cfg.extras.print_config=True>
+[2023-09-02 15:14:35,596][__main__][INFO] - Starting API
+[2023-09-02 15:33:57,976][src.utils.utils][INFO] - Enforcing tags! <cfg.extras.enforce_tags=True>
+[2023-09-02 15:33:57,985][src.utils.utils][INFO] - Printing config tree with Rich! <cfg.extras.print_config=True>
+[2023-09-02 15:33:58,019][__main__][INFO] - Starting API
+[2023-09-02 15:34:55,100][src.utils.utils][INFO] - Enforcing tags! <cfg.extras.enforce_tags=True>
+[2023-09-02 15:34:55,108][src.utils.utils][INFO] - Printing config tree with Rich! <cfg.extras.print_config=True>
+[2023-09-02 15:34:55,141][__main__][INFO] - Starting API
+[2023-09-02 15:37:51,882][src.utils.utils][INFO] - Enforcing tags! <cfg.extras.enforce_tags=True>
+[2023-09-02 15:37:51,890][src.utils.utils][INFO] - Printing config tree with Rich! <cfg.extras.print_config=True>
+[2023-09-02 15:37:51,923][__main__][INFO] - Starting API
+[2023-09-02 15:39:05,723][src.utils.utils][INFO] - Enforcing tags! <cfg.extras.enforce_tags=True>
+[2023-09-02 15:39:05,733][src.utils.utils][INFO] - Printing config tree with Rich! <cfg.extras.print_config=True>
+[2023-09-02 15:39:05,771][__main__][INFO] - Starting API
+[2023-09-02 15:39:44,426][src.utils.utils][INFO] - Enforcing tags! <cfg.extras.enforce_tags=True>
+[2023-09-02 15:39:44,438][src.utils.utils][INFO] - Printing config tree with Rich! <cfg.extras.print_config=True>
+[2023-09-02 15:39:44,472][__main__][INFO] - Starting API
+[2023-09-02 15:40:05,853][src.utils.utils][INFO] - Enforcing tags! <cfg.extras.enforce_tags=True>
+[2023-09-02 15:40:05,869][src.utils.utils][INFO] - Printing config tree with Rich! <cfg.extras.print_config=True>
+[2023-09-02 15:40:05,903][__main__][INFO] - Starting API
+[2023-09-02 15:40:14,205][src.utils.utils][INFO] - Enforcing tags! <cfg.extras.enforce_tags=True>
+[2023-09-02 15:40:14,217][src.utils.utils][INFO] - Printing config tree with Rich! <cfg.extras.print_config=True>
+[2023-09-02 15:40:14,251][__main__][INFO] - Starting API
+[2023-09-02 15:40:47,019][src.utils.utils][INFO] - Enforcing tags! <cfg.extras.enforce_tags=True>
+[2023-09-02 15:40:47,029][src.utils.utils][INFO] - Printing config tree with Rich! <cfg.extras.print_config=True>
+[2023-09-02 15:40:47,060][__main__][INFO] - Starting API
+[2023-09-02 15:41:53,508][src.utils.utils][INFO] - Enforcing tags! <cfg.extras.enforce_tags=True>
+[2023-09-02 15:41:53,520][src.utils.utils][INFO] - Printing config tree with Rich! <cfg.extras.print_config=True>
+[2023-09-02 15:41:53,552][__main__][INFO] - Starting API
+[2023-09-02 15:42:10,475][src.utils.utils][INFO] - Enforcing tags! <cfg.extras.enforce_tags=True>
+[2023-09-02 15:42:10,486][src.utils.utils][INFO] - Printing config tree with Rich! <cfg.extras.print_config=True>
+[2023-09-02 15:42:10,515][__main__][INFO] - Starting API
+[2023-09-02 15:42:56,700][src.utils.utils][INFO] - Enforcing tags! <cfg.extras.enforce_tags=True>
+[2023-09-02 15:42:56,708][src.utils.utils][INFO] - Printing config tree with Rich! <cfg.extras.print_config=True>
+[2023-09-02 15:42:56,743][__main__][INFO] - Starting API
+[2023-09-02 15:44:25,202][src.utils.utils][INFO] - Enforcing tags! <cfg.extras.enforce_tags=True>
+[2023-09-02 15:44:25,212][src.utils.utils][INFO] - Printing config tree with Rich! <cfg.extras.print_config=True>
+[2023-09-02 15:44:25,246][__main__][INFO] - Starting API
+[2023-09-02 15:44:45,700][src.utils.utils][INFO] - Enforcing tags! <cfg.extras.enforce_tags=True>
+[2023-09-02 15:44:45,710][src.utils.utils][INFO] - Printing config tree with Rich! <cfg.extras.print_config=True>
+[2023-09-02 15:44:45,746][__main__][INFO] - Starting API
+[2023-09-02 15:45:04,986][src.utils.utils][INFO] - Enforcing tags! <cfg.extras.enforce_tags=True>
+[2023-09-02 15:45:04,995][src.utils.utils][INFO] - Printing config tree with Rich! <cfg.extras.print_config=True>
+[2023-09-02 15:45:05,027][__main__][INFO] - Starting API
+[2023-09-02 15:50:04,381][src.utils.utils][INFO] - Enforcing tags! <cfg.extras.enforce_tags=True>
+[2023-09-02 15:50:04,415][src.utils.utils][INFO] - Printing config tree with Rich! <cfg.extras.print_config=True>
+[2023-09-02 15:50:06,275][__main__][INFO] - Starting API
+[2023-09-02 15:53:41,817][src.utils.utils][INFO] - Enforcing tags! <cfg.extras.enforce_tags=True>
+[2023-09-02 15:53:41,849][src.utils.utils][INFO] - Printing config tree with Rich! <cfg.extras.print_config=True>
+[2023-09-02 15:53:42,741][__main__][INFO] - Starting API
+[2023-09-02 15:57:01,736][src.utils.utils][INFO] - Enforcing tags! <cfg.extras.enforce_tags=True>
+[2023-09-02 15:57:01,746][src.utils.utils][INFO] - Printing config tree with Rich! <cfg.extras.print_config=True>
+[2023-09-02 15:57:01,796][__main__][INFO] - Starting API
