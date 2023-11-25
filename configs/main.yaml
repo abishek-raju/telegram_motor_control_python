@@ -11,3 +11,22 @@ task_name: "Remote_Switch"
 # you can overwrite this in experiment configs
 # overwrite from command line with `python train.py tags="[first_tag, second_tag]"`
 tags: ["dev"]
+
+motor_duration: 222 #in secs
+
+motor_start_time: 
+  motor_on_time: ["9999-12-31T15:52:00+02:00",]
+
+#indicator pin details
+blink_pin: 4
+red_flag_led: 2
+
+voltage_input_pin: 11
+
+#control pin details
+motor_on_relay: 7
+motor_off_relay: 8
+
+#control variables
+# bool red_flag=false;
+# bool voltage_flag=false;
