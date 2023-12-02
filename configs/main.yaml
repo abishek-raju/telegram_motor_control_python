@@ -18,7 +18,7 @@ motor_start_time:
   motor_on_time: ["9999-12-31T15:52:00+02:00",]
 
 #indicator pin details
-blink_pin: 4
+blink_pin: 27
 red_flag_led: 2
 
 voltage_input_pin: 11
